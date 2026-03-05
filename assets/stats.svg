@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">&#32791;&#23376; &#30340; GitHub &#32479;&#35745;&#25968;&#25454;, Rank: B</title>
-        <desc id="descId">获标星数: 25, 累计提交总数  (去年) : 1199, 发起的 PR 总数: 2, 提出的 issue 总数: 3, 贡献的项目数（去年）: 8</desc>
+        <desc id="descId">获标星数: 25, 累计提交总数  (去年) : 1201, 发起的 PR 总数: 2, 提出的 issue 总数: 3, 贡献的项目数（去年）: 8</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 156.94305306653695;
+        stroke-dashoffset: 156.93471509065495;
       }
     }
   
